@@ -1,0 +1,757 @@
+{
+  "vaultName": "MyNoteTest",
+  "lastExport": 1733208206473,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/嵌套的CMake.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/使用pyocd进行调试仿真.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake的使用.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake概述.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake构建项目.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake流程控制.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake命令执行和项目构建.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake条件判断.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake循环.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的宏定义.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件链接.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件输出路径设置.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件制作.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的日志和变量操作.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMakeLists.txt 文件编写示例.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/pyocd的简单使用.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/pyocd配置芯片支持包.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/E/嵌入式交叉编译环境搭建.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/查看 GCC 预定义宏方法.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/尝试自己编写n32g430的openocd配置文件.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/东宇写的环境搭建步骤.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/嵌入式软件开发-交叉编译-2p.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/手把手教你配置，VSCode+EIDE开发STM32.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/用VS Code开发STM32——增加SEGGER RTT日志输出支持.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/CMake 保姆级教程（上）.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/CMake 保姆级教程（下）.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（二）- 使用Cmake管理与构建.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（三）- 调试.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（一）- 环境部署.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/OpenOCD添加第三方设备支持HT32F52352 Cortex-M0.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/VSCode - 使用Clangd搭建C++开发环境.md",
+    "1_Projects/嵌入式软件开发-交叉编译-2p/VSCode-GDB-J-Link-单片机程序调试实践.md",
+    "2_Areas/C51单片机/51单片机开发板.md",
+    "2_Areas/C51单片机/笔记-嵌入式学习路径.md",
+    "2_Areas/C51单片机/储存器AT24C02.md",
+    "2_Areas/C51单片机/触摸屏控制器XPT2046.md",
+    "2_Areas/C51单片机/串口通信.md",
+    "2_Areas/C51单片机/单片机.md",
+    "2_Areas/C51单片机/单总线.md",
+    "2_Areas/C51单片机/定时器.md",
+    "2_Areas/C51单片机/蜂鸣器.md",
+    "2_Areas/C51单片机/红外遥控.md",
+    "2_Areas/C51单片机/计算机基础.md",
+    "2_Areas/C51单片机/晶体管芯片ULN2003.md",
+    "2_Areas/C51单片机/矩阵键盘.md",
+    "2_Areas/C51单片机/脉冲宽度调制PWM.md",
+    "2_Areas/C51单片机/模拟-数字转换_AD-DA.md",
+    "2_Areas/C51单片机/轻触开关.md",
+    "2_Areas/C51单片机/驱动电路.md",
+    "2_Areas/C51单片机/三极管.md",
+    "2_Areas/C51单片机/时钟芯片DS1302.md",
+    "2_Areas/C51单片机/数码管.md",
+    "2_Areas/C51单片机/数字温度传感器DS18B20.md",
+    "2_Areas/C51单片机/通信协议.md",
+    "2_Areas/C51单片机/移位寄存器74HC595.md",
+    "2_Areas/C51单片机/译码器74HC138.md",
+    "2_Areas/C51单片机/运算放大器.md",
+    "2_Areas/C51单片机/直流电机.md",
+    "2_Areas/C51单片机/中断系统.md",
+    "2_Areas/C51单片机/C51单片机.md",
+    "2_Areas/C51单片机/I2C总线.md",
+    "2_Areas/C51单片机/LCD液晶屏.md",
+    "2_Areas/C51单片机/led灯.md",
+    "2_Areas/C51单片机/LED点阵屏.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/51单片机开发板.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 525,
+      "exportedPath": "2_Areas/C51单片机/51单片机开发板.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/笔记-嵌入式学习路径.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 824,
+      "exportedPath": "2_Areas/C51单片机/笔记-嵌入式学习路径.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/储存器AT24C02.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 12445,
+      "exportedPath": "2_Areas/C51单片机/储存器AT24C02.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/触摸屏控制器XPT2046.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3341,
+      "exportedPath": "2_Areas/C51单片机/触摸屏控制器XPT2046.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/串口通信.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 13558,
+      "exportedPath": "2_Areas/C51单片机/串口通信.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/单片机.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2869,
+      "exportedPath": "2_Areas/C51单片机/单片机.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/单总线.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 5134,
+      "exportedPath": "2_Areas/C51单片机/单总线.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/定时器.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 15066,
+      "exportedPath": "2_Areas/C51单片机/定时器.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/蜂鸣器.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 8519,
+      "exportedPath": "2_Areas/C51单片机/蜂鸣器.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/红外遥控.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9294,
+      "exportedPath": "2_Areas/C51单片机/红外遥控.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/计算机基础.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 33312,
+      "exportedPath": "2_Areas/C51单片机/计算机基础.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/晶体管芯片ULN2003.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 337,
+      "exportedPath": "2_Areas/C51单片机/晶体管芯片ULN2003.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/矩阵键盘.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 5174,
+      "exportedPath": "2_Areas/C51单片机/矩阵键盘.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/脉冲宽度调制PWM.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2589,
+      "exportedPath": "2_Areas/C51单片机/脉冲宽度调制PWM.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/模拟-数字转换_AD-DA.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 8531,
+      "exportedPath": "2_Areas/C51单片机/模拟-数字转换_AD-DA.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/轻触开关.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 6257,
+      "exportedPath": "2_Areas/C51单片机/轻触开关.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/驱动电路.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1264,
+      "exportedPath": "2_Areas/C51单片机/驱动电路.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/三极管.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 7020,
+      "exportedPath": "2_Areas/C51单片机/三极管.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/时钟芯片DS1302.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2508,
+      "exportedPath": "2_Areas/C51单片机/时钟芯片DS1302.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/数码管.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 4441,
+      "exportedPath": "2_Areas/C51单片机/数码管.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/数字温度传感器DS18B20.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 11070,
+      "exportedPath": "2_Areas/C51单片机/数字温度传感器DS18B20.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/通信协议.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2422,
+      "exportedPath": "2_Areas/C51单片机/通信协议.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/移位寄存器74HC595.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2033,
+      "exportedPath": "2_Areas/C51单片机/移位寄存器74HC595.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/译码器74HC138.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1173,
+      "exportedPath": "2_Areas/C51单片机/译码器74HC138.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/运算放大器.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9782,
+      "exportedPath": "2_Areas/C51单片机/运算放大器.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/直流电机.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 6037,
+      "exportedPath": "2_Areas/C51单片机/直流电机.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/中断系统.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9344,
+      "exportedPath": "2_Areas/C51单片机/中断系统.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/C51单片机.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2533,
+      "exportedPath": "2_Areas/C51单片机/C51单片机.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/I2C总线.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9916,
+      "exportedPath": "2_Areas/C51单片机/I2C总线.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/LCD液晶屏.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 12221,
+      "exportedPath": "2_Areas/C51单片机/LCD液晶屏.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/led灯.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2262,
+      "exportedPath": "2_Areas/C51单片机/led灯.html",
+      "dependencies": []
+    },
+    "2_Areas/C51单片机/LED点阵屏.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 7352,
+      "exportedPath": "2_Areas/C51单片机/LED点阵屏.html",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/嵌套的CMake.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1048,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/嵌套的CMake.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/使用pyocd进行调试仿真.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3821,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/使用pyocd进行调试仿真.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake的使用.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 781,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake的使用.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake概述.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 788,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake概述.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake构建项目.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1793,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake构建项目.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake流程控制.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1400,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake流程控制.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake命令执行和项目构建.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 860,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake命令执行和项目构建.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake条件判断.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1136,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake条件判断.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake循环.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 763,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake循环.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的宏定义.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 2249,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的宏定义.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件链接.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1181,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件链接.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件输出路径设置.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 987,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件输出路径设置.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件制作.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1230,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的库文件制作.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的日志和变量操作.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1068,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMake中的日志和变量操作.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMakeLists.txt 文件编写示例.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1069,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/CMakeLists.txt 文件编写示例.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/pyocd的简单使用.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3300,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/pyocd的简单使用.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/D/pyocd配置芯片支持包.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3636,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/D/pyocd配置芯片支持包.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/E/嵌入式交叉编译环境搭建.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 4966,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/E/嵌入式交叉编译环境搭建.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/查看 GCC 预定义宏方法.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1580,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/查看 GCC 预定义宏方法.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/尝试自己编写n32g430的openocd配置文件.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3238,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/尝试自己编写n32g430的openocd配置文件.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/东宇写的环境搭建步骤.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 207,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/东宇写的环境搭建步骤.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/嵌入式软件开发-交叉编译-2p.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3158,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/嵌入式软件开发-交叉编译-2p.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/手把手教你配置，VSCode+EIDE开发STM32.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3340,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/手把手教你配置，VSCode+EIDE开发STM32.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/用VS Code开发STM32——增加SEGGER RTT日志输出支持.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9770,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/用VS Code开发STM32——增加SEGGER RTT日志输出支持.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/CMake 保姆级教程（上）.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 1008,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/CMake 保姆级教程（上）.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/CMake 保姆级教程（下）.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 678,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/CMake 保姆级教程（下）.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（二）- 使用Cmake管理与构建.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 20176,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（二）- 使用Cmake管理与构建.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（三）- 调试.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 7731,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（三）- 调试.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（一）- 环境部署.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 13731,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/GCC + Vscode 搭建 STM32 开发环境（一）- 环境部署.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/OpenOCD添加第三方设备支持HT32F52352 Cortex-M0.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 21205,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/OpenOCD添加第三方设备支持HT32F52352 Cortex-M0.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/VSCode - 使用Clangd搭建C++开发环境.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 3205,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/VSCode - 使用Clangd搭建C++开发环境.html",
+      "dependencies": []
+    },
+    "1_Projects/嵌入式软件开发-交叉编译-2p/VSCode-GDB-J-Link-单片机程序调试实践.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 9355,
+      "exportedPath": "1_Projects/嵌入式软件开发-交叉编译-2p/VSCode-GDB-J-Link-单片机程序调试实践.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1733208206473,
+      "sourceSize": 97,
+      "exportedPath": "index.html",
+      "dependencies": []
+    }
+  }
+}
